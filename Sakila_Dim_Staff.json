@@ -1,0 +1,16 @@
+[
+	{
+		"staff_key" : 1,
+		"staff_id" : 1,
+		"first_name" : "Mike",
+		"last_name" : "Hillyer",
+		"username" : "Mike"
+	},
+	{
+		"staff_key" : 2,
+		"staff_id" : 2,
+		"first_name" : "Jon",
+		"last_name" : "Stephens",
+		"username" : "Jon"
+	}
+]
